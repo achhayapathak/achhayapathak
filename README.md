@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achhaya</h1>
-<h3 align="center">A passionate Backend/Fullstack Developer from India</h3>
+<h3 align="center">A passionate Backend + Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achhayapathak&label=Profile%20views&color=0e75b6&style=plastic" alt="achhayapathak" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/frozen_parantha" target="blank"><img src="https://img.shields.io/twitter/follow/frozen_parantha?logo=twitter&style=for-the-badge" alt="frozen_parantha" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Ad Blocker Extension](https://github.com/achhayapathak/youtube_ad_blocker)
+- 🔭 I’m currently working on [Termtalk - A CLI-based chat app](https://github.com/achhayapathak/termtakk)
 
-- 🌱 I’m currently learning **Next, TypeScript, Devops & Designing**
+- 🌱 I’m currently learning **Devops & Designing**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-achhaya-pathak.vercel.app/](https://portfolio-achhaya-pathak.vercel.app/)
 
-- 💬 Ask me about **C++, DSA, Fullstack**
+- 💬 Ask me about **DevOps, C++, DSA, Fullstack**
 
 - 📫 How to reach me **pathakachhaya@gmail.com**
 
