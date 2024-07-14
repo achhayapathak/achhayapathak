@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/frozen_parantha" target="blank"><img src="https://img.shields.io/twitter/follow/frozen_parantha?logo=twitter&style=for-the-badge" alt="frozen_parantha" /></a> </p>
 
-- 🔭 I’m currently working on [Termtalk - A CLI-based chat app](https://github.com/achhayapathak/termtakk)
+- 🔭 I’m currently working on [Termtalk - A CLI-based chat app](https://github.com/achhayapathak/termtalk)
 
 - 🌱 I’m currently learning **Devops & Designing**
 
